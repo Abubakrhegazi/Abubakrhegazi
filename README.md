@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abubakr 👋</h1>
 
 <p align="center">
-  <b>AI Engineer | ML, NLP & CV Enthusiast | Programming Tutor</b><br>
+  <b>AI Engineer | ML & NLP Enthusiast | Programming Tutor</b><br>
   Building intelligent systems and sharing knowledge through code.
 </p>
 
