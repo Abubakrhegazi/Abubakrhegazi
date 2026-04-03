@@ -8,7 +8,7 @@
 
   <a href="mailto:abubakrhegazi0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abubakr-hegazi-901032225/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://preply.com"><img src="https://img.shields.io/badge/Preply-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNHYtNGgtMlY5aDR2NmgtMnYxaC0yeiIvPjwvc3ZnPg==&logoColor=white"/></a>
+  <a href="https://preply.com"><img src="https://img.shields.io/badge/Preply-FF6B35?style=for-the-badge&logoColor=white"/></a>
   <a href="https://ieeexplore.ieee.org/document/11196856"><img src="https://img.shields.io/badge/IEEE_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
 </div>
 
@@ -18,7 +18,7 @@
 
 Final-year CS (AI Specialization) student at Misr International University, graduating 2026. I build production AI systems focused on NLP, voice processing, and real-world Arabic language applications — from LLM orchestration and fine-tuned speech models to full-stack deployments.
 
-Currently co-founding **FitAI** (AI personal trainer platform) and maintaining **Aura** (AI personal finance bot deployed at [aurabot.website](https://aurabot.website)).  
+Currently maintaining **Aura** (AI personal finance bot deployed at [aurabot.website](https://aurabot.website)).  
 Online AI/ML tutor on Preply — **400+ hours taught · 40+ students · 5-star rating**.
 
 ---
@@ -86,17 +86,6 @@ Personal finance tracker with Arabic/English NLP.
 <tr>
 <td width="50%" valign="top">
 
-### FitAI — AI Personal Trainer *(in dev)*
-Microservices AI fitness platform on AWS.
-
-- 22-service architecture on ECS Fargate
-- Five AI trainer personas via LangGraph.js
-- React Native mobile app
-- Fastify · Prisma · Fastify
-
-</td>
-<td width="50%" valign="top">
-
 ### GED/GEC — Arabic Grammar Model
 Multilingual grammatical error detection & correction.
 
@@ -107,6 +96,16 @@ Multilingual grammatical error detection & correction.
 [Read the paper](https://ieeexplore.ieee.org/document/11196856)
 
 </td>
+<td width="50%" valign="top">
+
+### git-conflict-analyzer
+Async service for analyzing and resolving Git merge conflicts.
+
+- FastAPI · PyGitHub · Celery · Redis
+- Claude API integration
+- Alembic migrations · 51/51 passing tests
+
+</td>
 </tr>
 </table>
 
@@ -115,7 +114,7 @@ Multilingual grammatical error detection & correction.
 ## Research
 
 **Comparative Study of Classical ML and Transformer-Based Models for Multilingual GED/GEC (English & Arabic)**  
-*IEEE Xplore, 2024* &nbsp; — &nbsp; [ieeexplore.ieee.org/document/11196856](https://ieeexplore.ieee.org/document/11196856)
+*IEEE Xplore, 2024* &nbsp;—&nbsp; [ieeexplore.ieee.org/document/11196856](https://ieeexplore.ieee.org/document/11196856)
 
 ---
 
