@@ -1,93 +1,150 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&text=Abubakr%20Hegazi&fontSize=42&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
 
-# Abubakr Hegazi
+<div align="center">
+  <h3>AI Engineer &nbsp;·&nbsp; NLP & Voice Systems &nbsp;·&nbsp; Freelance Developer</h3>
+  <p>Cairo, Egypt &nbsp;·&nbsp; MIU Class of 2026</p>
 
-**AI Engineer · NLP & Voice Systems · Freelance Developer**
-
-[![Email](https://img.shields.io/badge/Email-abubakrhegazi0@gmail.com-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:abubakrhegazi0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abubakr_Hegazi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubakr-hegazi-901032225/)
-[![Preply](https://img.shields.io/badge/Preply-AI/ML_Tutor-FF6B35?style=flat)](https://preply.com)
-
-Cairo, Egypt
-
+  <a href="mailto:abubakrhegazi0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abubakr-hegazi-901032225/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://preply.com"><img src="https://img.shields.io/badge/Preply-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNHYtNGgtMlY5aDR2NmgtMnYxaC0yeiIvPjwvc3ZnPg==&logoColor=white"/></a>
+  <a href="https://ieeexplore.ieee.org/document/11196856"><img src="https://img.shields.io/badge/IEEE_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
 </div>
 
 ---
 
 ## About
 
-Final-year Computer Science (AI Specialization) student at Misr International University, expected to graduate in 2026. I build production AI systems with a focus on NLP, voice, and real-world Arabic language processing. My work spans full-stack AI applications, LLM orchestration, and fine-tuned speech models.
+Final-year CS (AI Specialization) student at Misr International University, graduating 2026. I build production AI systems focused on NLP, voice processing, and real-world Arabic language applications — from LLM orchestration and fine-tuned speech models to full-stack deployments.
 
-Currently co-founding **FitAI** (AI personal trainer platform) and maintaining **Aura** (AI personal finance bot). Active freelance developer and online AI/ML tutor on Preply with 400+ hours taught and a 5-star rating.
+Currently co-founding **FitAI** (AI personal trainer platform) and maintaining **Aura** (AI personal finance bot deployed at [aurabot.website](https://aurabot.website)).  
+Online AI/ML tutor on Preply — **400+ hours taught · 40+ students · 5-star rating**.
 
 ---
 
-## Technical Stack
+## Tech Stack
 
-**AI/ML:** LLMs, NLP, Computer Vision, Reinforcement Learning, Speech (STT/TTS), Emotion Detection  
-**Orchestration:** LangGraph, LangChain, Groq, Hugging Face Transformers  
-**Backend:** Python, FastAPI, Node.js, Express, PostgreSQL, MongoDB, SQLite  
-**Frontend:** React, Next.js, HTML/CSS  
-**Infrastructure:** AWS, Railway, Cloudflare R2, Vercel, Docker, Git  
-**Languages:** Python, JavaScript, C++, SQL, PHP
+<div align="center">
+
+**AI & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Backend & Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</div>
 
 ---
 
 ## Projects
 
-### VCAI — Virtual Customer AI Training System
-AI sales training platform with real-time Egyptian Arabic voice conversations. Built with Faster Whisper STT, Qwen 2.5-7B LLM, fine-tuned Chatterbox TTS, and a custom emotion detection model (96.8% accuracy using emotion2vec + AraBERT fusion). Orchestrated with LangGraph.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Aura — AI Personal Finance Bot
-Telegram bot and web dashboard for personal finance tracking with AI-driven natural language expense parsing in English and Arabic, voice input via Whisper STT, investments tracking (gold, crypto, stocks), and a PostgreSQL backend. Deployed at [aurabot.website](https://aurabot.website).
+### VCAI — Virtual Customer AI
+AI sales training platform with real-time Egyptian Arabic voice.
 
-**Stack:** FastAPI · PostgreSQL · Next.js · Groq · Cloudflare R2 · Railway
+- Faster Whisper STT + Qwen 2.5-7B LLM
+- Fine-tuned Chatterbox TTS
+- Custom emotion detection — **96.8% accuracy** (emotion2vec + AraBERT)
+- LangGraph orchestration
 
-### FitAI — AI Personal Trainer Platform *(in development)*
-Microservices-based AI fitness platform with personalized training plans, nutrition tracking, and five distinct AI trainer personas. Built on AWS ECS Fargate with LangGraph.js orchestration and React Native mobile app.
+</td>
+<td width="50%" valign="top">
 
-**Stack:** Node.js · Fastify · Prisma · LangGraph.js · AWS ECS · React Native
+### Aura — AI Finance Bot
+Personal finance tracker with Arabic/English NLP.
 
-### Grammar Error Detection and Correction (GED/GEC)
-Arabic GED/GEC model fine-tuned on mBART, achieving 90% accuracy. Published at IEEE Xplore 2024.
+- Telegram bot + Next.js dashboard
+- Whisper STT voice input
+- Investments tracking (gold, crypto, stocks)
+- PostgreSQL · FastAPI · Cloudflare R2
 
-**Stack:** TensorFlow · Hugging Face Transformers · mBART
+[aurabot.website](https://aurabot.website)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### FitAI — AI Personal Trainer *(in dev)*
+Microservices AI fitness platform on AWS.
+
+- 22-service architecture on ECS Fargate
+- Five AI trainer personas via LangGraph.js
+- React Native mobile app
+- Fastify · Prisma · Fastify
+
+</td>
+<td width="50%" valign="top">
+
+### GED/GEC — Arabic Grammar Model
+Multilingual grammatical error detection & correction.
+
+- mBART fine-tuned, **90% accuracy**
+- TensorFlow + Hugging Face Transformers
+- Published at IEEE Xplore 2024
+
+[Read the paper](https://ieeexplore.ieee.org/document/11196856)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Research
 
-**Comparative Study of Classical Machine Learning and Transformer-Based Models for Multilingual Grammatical Error Detection and Correction (English & Arabic)**  
-IEEE Xplore, 2024 — [Read Paper](https://ieeexplore.ieee.org/document/11196856)
+**Comparative Study of Classical ML and Transformer-Based Models for Multilingual GED/GEC (English & Arabic)**  
+*IEEE Xplore, 2024* &nbsp; — &nbsp; [ieeexplore.ieee.org/document/11196856](https://ieeexplore.ieee.org/document/11196856)
 
 ---
 
 ## Experience
 
-**AI/ML/RL Tutor (Remote) — Preply** · Oct 2024 – Present  
-Teaching AI, Machine Learning, NLP, and Reinforcement Learning to students globally. 400+ hours, 40+ students, 5-star rating.
-
-**AI/ML Instructor — Bahga Academy** · Jun 2022 – Aug 2024  
-Designed and delivered coding courses for teens using Scratch, Python, and Pictoblox.
-
----
-
-## Certifications
-
-- Generative AI with AWS — AWS, June 2025  
-- Introduction to Front-End Development — Meta, March 2024
+| Role | Company | Period |
+|------|---------|--------|
+| AI/ML/RL Tutor (Remote) | Preply | Oct 2024 – Present |
+| AI/ML Instructor | Bahga Academy | Jun 2022 – Aug 2024 |
 
 ---
 
-## Education
+## Education & Certifications
 
-**B.Sc. in Computer Science (AI Specialization)**  
-Misr International University, Egypt · 2022 – Expected 2026
+**B.Sc. Computer Science (AI Specialization)** — Misr International University · 2022–2026
+
+![AWS](https://img.shields.io/badge/Generative_AI_with_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) &nbsp;
+![Meta](https://img.shields.io/badge/Front--End_Dev_(Meta)-0866FF?style=flat-square&logo=meta&logoColor=white)
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abubakrhegazi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abubakrhegazi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakrhegazi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
