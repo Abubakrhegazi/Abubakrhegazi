@@ -127,23 +127,6 @@ Async service for analyzing and resolving Git merge conflicts.
 
 ---
 
-## Education & Certifications
-
-**B.Sc. Computer Science (AI Specialization)** — Misr International University · 2022–2026
-
-![AWS](https://img.shields.io/badge/Generative_AI_with_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) &nbsp;
-![Meta](https://img.shields.io/badge/Front--End_Dev_(Meta)-0866FF?style=flat-square&logo=meta&logoColor=white)
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abubakrhegazi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakrhegazi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
-
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
